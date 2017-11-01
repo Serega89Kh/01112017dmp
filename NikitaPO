@@ -1,5 +1,5 @@
 f2) 1-a
 f1) a*b
 f7) Math.ceil((a+b)/2)
-f9) 1 - Math.foor(a+b/2)
+f9) 1 - Math.foor((a+b)/2)
 f13)1 - Math.floor(a/(b+1))

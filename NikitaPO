@@ -1,5 +1,5 @@
 f2) 1-a
 f1) a*b
 f7) ceil((a+b)/2)
-f9) a*b+1
+f9) 1 - foor(a+b/2)
 f13)1 - floor(a/(b+1))
